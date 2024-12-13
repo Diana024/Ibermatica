@@ -1,6 +1,4 @@
-# Hola
-
-# CONTADOR.
+# CONTADOR
 
 ## Descripción
 Esta prueba técnica tiene como objetivo evaluar el uso correcto de: 
