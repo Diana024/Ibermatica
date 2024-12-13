@@ -31,6 +31,6 @@ Instale los paquetes con $ npm install.
 Ejecute el servidor webpack con $ npm run start
 Puede actualizar estilos/index.css o js/index.js según sus necesidades. Agregue más archivos a su carpeta ./src/js/components o estilos cuando los necesite.
 
-##¡Publica tu sitio web!
+## ¡Publica tu sitio web!
 Este modelo estándar es 100% compatible con las páginas gratuitas de github y el hosting de vercel.
   
